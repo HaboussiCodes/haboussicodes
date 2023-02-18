@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm samia haboussi</h1>
-<h3 align="center">Hi there 🙆‍♀️, I'm PHD student pationnate about artificial intelligence</h3>
+<h3 align="center">Hi there 🙆‍♀️, I'm AI PHD student pationnate about Machine learning & Deep learning</h3>
 <img align="right" alt="coding"  width="400" src="https://laughingsquid.com/wp-content/uploads/2017/08/silly-robots.gif">
 <p align="left"> <a href="https://twitter.com/sissysmart1" target="blank"><img src="https://img.shields.io/twitter/follow/sissysmart1?logo=twitter&style=for-the-badge" alt="sissysmart1" /></a> </p>
 
