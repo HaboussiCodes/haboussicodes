@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/bd/f7/ebbdf7ce4f7f502d1f28b96b5cbd7a1f.gif)](https://dev.to/sissysmart1)
+[![MasterHead](https://i.pinimg.com/originals/eb/bd/f7/ebbdf7ce4f7f502d1f28b96b5cbd7a1f.gif)]
 <h1 align="center">Hi 👋, I'm samia haboussi</h1>
 <h3 align="center">Hi there 🙆‍♀️, I'm PHD student pationnate about artificial intelligence</h3>
 <img align="right" alt="coding"  width="400" src="https://laughingsquid.com/wp-content/uploads/2017/08/silly-robots.gif">
